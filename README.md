@@ -31,4 +31,4 @@ Diferença entre aporte no início e no final do período.
 Como criar identificadores únicos usando chaves compostas.
 Aplicação prática de conceitos de modelagem de dados dentro do Excel.
 
-Mais do que aprender fórmulas, este projeto ajudou a entender a lógica por trás dos cálculos e das consultas de dados.<img width="1280" height="800" alt="Captura de Tela (4)" src="https://github.com/user-attachments/assets/6d32bc8b-060a-4ffb-a586-48cb07a4ce8d" />
+Mais do que aprender fórmulas, este projeto ajudou a entender a lógica por trás dos cálculos e das consultas de dados.[CONTROLE DE INVESTIMENTO COM EXCEL.xlsx](https://github.com/user-attachments/files/34366478/CONTROLE.DE.INVESTIMENTO.COM.EXCEL.xlsx)
